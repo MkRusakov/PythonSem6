@@ -21,6 +21,7 @@ while True:
 
 print(list)
 print()
+
 for i in range(0, len(list)-1, +1):
     a = list[i]
     b = list[i+1]
